@@ -1,0 +1,2256 @@
+{
+ "dataVersion": 60,
+ "reportEmail": "probashisheba.app@gmail.com",
+ "categories": [
+  {
+   "id": "iqama",
+   "icon": "badge",
+   "color": "#1E88E5",
+   "name": {
+    "bn": "ইকামা হাব",
+    "en": "Iqama Hub",
+    "ar": "مركز الإقامة",
+    "ur": "اقامہ ہب",
+    "hi": "इक़ामा हब"
+   },
+   "items": [
+    {
+     "id": "iqama_validity",
+     "icon": "person_search",
+     "color": "#43A047",
+     "url": "https://es.hrsd.gov.sa/IndividualUser/BasicInfo.aspx",
+     "name": {
+      "bn": "ইকামার মেয়াদ চেক (শ্রম মন্ত্রণালয়)",
+      "en": "Iqama validity (HRSD)",
+      "ar": "صلاحية الإقامة",
+      "ur": "اقامہ کی میعاد",
+      "hi": "इक़ामा वैधता"
+     }
+    },
+    {
+     "id": "iqama_expiry_absher",
+     "icon": "badge",
+     "color": "#1E88E5",
+     "url": "https://www.absher.sa/wps/myportal/individuals/Home/mostpopular.dupe/iqama-expiry/!ut/p/z1/04_iUlDg4tKPAFJABjKBwtGPykssy0xPLMnMz0vM0Y_Qj4wyizcxDnZz9vRx9zYL8XUy8Azy8gkOCfQ1NHA21_fSj8KvIDg1T78gO1ARAPH96vQ!/",
+     "name": {
+      "bn": "ইকামার মেয়াদ চেক (Absher)",
+      "en": "Iqama expiry (Absher)",
+      "ar": "Iqama expiry (Absher)",
+      "ur": "Iqama expiry (Absher)",
+      "hi": "Iqama expiry (Absher)"
+     }
+    },
+    {
+     "id": "iqama_issued",
+     "icon": "fact_check",
+     "color": "#1E88E5",
+     "url": "https://es.hrsd.gov.sa/IndividualUser/BasicInfo.aspx",
+     "name": {
+      "bn": "নতুন ইকামা ইস্যু হয়েছে কিনা",
+      "en": "Is new Iqama issued?",
+      "ar": "هل صدرت الإقامة؟",
+      "ur": "نیا اقامہ جاری ہوا؟",
+      "hi": "नया इक़ामा जारी हुआ?"
+     }
+    },
+    {
+     "id": "nitaqat",
+     "icon": "traffic",
+     "color": "#E53935",
+     "url": "https://es.hrsd.gov.sa/Services/Inquiry/NonSaudiEmpInquiry.aspx",
+     "name": {
+      "bn": "নিতাকাত রঙ (লাল/সবুজ)",
+      "en": "Nitaqat colour (red/green)",
+      "ar": "لون نطاقات",
+      "ur": "نطاقات رنگ",
+      "hi": "निताक़ात रंग"
+     }
+    },
+    {
+     "id": "maktab_amal",
+     "icon": "payments",
+     "color": "#FB8C00",
+     "url": "https://es.hrsd.gov.sa/Services/Inquiry/LaborOfficeServicesInquiry.aspx",
+     "name": {
+      "bn": "মাকতাব আমাল ফি ও ওয়ার্ক পারমিট",
+      "en": "Maktab Amal fee & work permit",
+      "ar": "رسوم مكتب العمل ورخصة العمل",
+      "ur": "مکتب عمل فیس اور ورک پرمٹ",
+      "hi": "मक्तब अमल फ़ीस और वर्क परमिट"
+     }
+    },
+    {
+     "id": "kafeel_name",
+     "icon": "person_search",
+     "color": "#5E35B1",
+     "url": "https://www.absher.sa/wps/myportal/individuals/Home/myservices/eservices/passports/pp-personalinformation/!ut/p/z1/lVLLboMwELzzFckXeG2DDUcChIdBJkG4lEvFoYqQWtpDVal_X0ObikcFyR78kGd2dnaNamO3MwxU6U0fxsvkguqu-WwvzUf71jUvqEKPNXtiJPVwZBMhpaLAhBnhc3aiEHL0MABgEi4czuRAAUJJUN0_x6ammESEpLDATTJZCu5jic1_-eNMA39b_ypg-6kHrpM6TuwwDNKa6ktJAjh53OVuhgkoNucvC7xPfylwm_8_ABNU889-IHV-IHfXP-ULdht_xWC9Pp4fvuXlXmxnFId5yYEcuZl4TIQK-Fb_kmmBy_kVz50WqWc-KMa9D1VYUYp1JVfAyj_ccjKTsBX2wVX5kSdBSEcSK6NaBfSzGAArzXp_LX-j-grauI0v-_032MOJiw!!/dz/d5/L0lJSklKQ2dwUXBSQS9JUGpBQUF4QUFFUkNwcWJxNHFBIS80TmxHUW9ZcE1oVGpVRTFKSUEhIS9aNl8wSTQ0SDE0Mks4NzkwMEFRUk1KQlQ3N1Q4My9aN182MkxDMUg4MktHN0Y0MDY3T0dSOVNNMzAwNC9TRVJWSUNFX05BVklHQVRJT05fVklFVy9QZXJzb25hbF9JbmZvcm1hdGlvbl9SZXNpZGVudC8lMHZpZXclMHNlcnZpY2VzJTBQZXJzb25hbF9JbmZvcm1hdGlvbl9SZXNpZGVudC54aHRtbA!!/",
+     "name": {
+      "bn": "কফিলের নাম ও তথ্য",
+      "en": "Kafeel (sponsor) name",
+      "ar": "اسم الكفيل",
+      "ur": "کفیل کا نام",
+      "hi": "कफ़ील का नाम"
+     }
+    },
+    {
+     "id": "moi_funds",
+     "icon": "account_balance",
+     "color": "#43A047",
+     "url": "https://www.absher.sa/wps/myportal/individuals/Home/mostpopular.dupe/available-funds/!ut/p/z1/04_iUlDg4tKPAFJABjKBwtGPykssy0xPLMnMz0vM0Y_Qj4wyizd1DnD2tPA1NnQ3d3Qx8DQwM_DxdHEyNvA01vfSj8KvIDg1T78gO1ARADwRp8Y!/",
+     "name": {
+      "bn": "ইকামায় জমা টাকা (MOI ফান্ড)",
+      "en": "Available funds in Iqama (MOI)",
+      "ar": "الرصيد المتاح في الإقامة",
+      "ur": "اقامہ میں دستیاب رقم",
+      "hi": "इक़ामा में जमा रक़म"
+     }
+    },
+    {
+     "id": "gov_payment",
+     "icon": "payments",
+     "color": "#00897B",
+     "url": "https://www.absher.sa/wps/myportal/individuals/Home/govpayments/govpaymentmain/!ut/p/z1/lVTLkqIwFN37Fd0Lt5ObgASWETCEh-GhjLKhrG5mhqqGnlLLmfn7jix6BC1aQxWPyjn33OQcgorJ09NkgjbqoV4ub70PVLS7U_1zd6zf290b2qBtYZQGCW3smSTgYGJIFo7EkeMBDwn63gGgNxjMUzLXALgkqDhPC133sE4Ck1pqOkkjf76idGVqN_mXle7kfwKc0AZmhZYlLAODnPX5UhIXEpsyyiJMIDeGfE6yGTA_kuuAOlhiveN_rl_KXAMjUNg0SjTgdMi_FijGyw_1jUBT_NRxpaoP5OH--_zAuI8_ssDiHv9ndmwLM9Iwj9cUyILqvm0EPAf64P6ZOXaA5fGC-i7XQDzsf58Pd_JHFliMx9MfCFzlL6taJVIMfNAwPvuQZzMvxF2bN4T6_9FXnQwkbuzEIIvXURsFnLPUAcbM7gPk0nOUh4EzD1Xy9OSrJpXdW-UHvfCDLnQwqOSplUWqCR1l5xqZm-bCdsslywVnKyGXZS5c5WVc7Q_ng6sU7Y_3fdMdY2VaHerXqj2i7RROdfVnCodqf6pfqsMURgnf_v46Nm_od7P-Pzb_3FqoK24axp6fPwBZWock/dz/d5/L2dBISEvZ0FBIS9nQSEh/",
+     "name": {
+      "bn": "সরকারি ফি পরিশোধ (Absher)",
+      "en": "Government payments (Absher)",
+      "ar": "Government payments",
+      "ur": "Government payments",
+      "hi": "Government payments"
+     }
+    },
+    {
+     "id": "visitor_iqama",
+     "icon": "badge",
+     "color": "#00897B",
+     "url": "https://www.absher.sa/wps/portal/individuals/static/vdc/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zizYx8nA09LIy8DXwsHQ3MQj1Nfb19LA38nYz0w8EKTJ0DnD0tfI0N3QNCzQ2M3MxNvJzNvN3DDMz1o4jRb4ADOBoQpx-Pgij8xofrR4GV4PMBITMKckNDIwwyHQG4YwAk/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Vu/",
+     "name": {
+      "bn": "ভিজিটর ডিজিটাল ইকামা",
+      "en": "Visitor digital Iqama",
+      "ar": "هوية الزائر الرقمية",
+      "ur": "وزیٹر ڈیجیٹل اقامہ",
+      "hi": "विज़िटर डिजिटल इक़ामा"
+     }
+    },
+    {
+     "id": "border_no",
+     "icon": "tag",
+     "color": "#00897B",
+     "url": "https://www.absher.sa/wps/portal/individuals/Home/myservices/einquiries/passports/qbn/!ut/p/z1/pZDBDoIwEEQ_qdulYK-UKlTAgomAvRhOpomiB-P3W4kHSUwlOrdN3ptshhjSETP0d3vsb_Yy9Cd37010iLBIaMYx50sMoS65FFgwgJSRdgRAMZZR5oCGSoibarVYL9MAFCXmHx9gpj9JDGKLwtmpxl_896Z5vgcw_vqWmBEJkypRvAyo3mQSFORSFFojq6MX4JvYCzw3_PDFdKRvb17PO5cOrLLxAzpkSWw!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Vu/",
+     "name": {
+      "bn": "বর্ডার নম্বর খোঁজা",
+      "en": "Find border number",
+      "ar": "الاستعلام عن رقم الحدود",
+      "ur": "بارڈر نمبر تلاش",
+      "hi": "बॉर्डर नंबर खोजें"
+     }
+    },
+    {
+     "id": "visitor_username",
+     "icon": "manage_accounts",
+     "color": "#546E7A",
+     "url": "https://www.absher.sa/wps/portal/individuals/static/vfu/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zizYx8nA09LIy8_d3cTAzMLA2CvQM9Aw0MfMz1w8EKTJ0DnD0tfI0N3QNCzQ2M3MxNvJzNvN3DDMz1o4jRb4ADOBoQpx-Pgij8xofrR4GV4PMBITMKckNDIwwyHQGYEzP9/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Vu/",
+     "name": {
+      "bn": "ভিজিটর ইউজারনেম ভুলে গেছেন",
+      "en": "Visitor forgot username",
+      "ar": "نسيت اسم المستخدم (زائر)",
+      "ur": "وزیٹر یوزرنیم بھول گئے",
+      "hi": "विज़िटर यूज़रनेम भूल गए"
+     }
+    },
+    {
+     "id": "absher_register",
+     "icon": "person_add",
+     "color": "#43A047",
+     "url": "https://www.absher.sa/wps/portal/individuals/Home/homepublic/!ut/p/z1/04_iUlDg4tKPAFJABjKBwtGPykssy0xPLMnMz0vM0Y_Qj4wyi3c3NHT0MHI38HF3DzIyCHR2NDQ2d3QytDA01Q8HKzB1DnD2tPA1NnQPCDU3MHIzN_FyNvN2DzMw14_CI21hAtVvgAM4GhCnH48Do_Ab70XIguDUPKAlUXiVgbxJyKKC3NDQiErXTACJ23JU/dz/d5/L2dBISEvZ0FBIS9nQSEh/",
+     "name": {
+      "bn": "আবশের অ্যাকাউন্ট রেজিস্ট্রেশন",
+      "en": "Absher account registration",
+      "ar": "التسجيل في أبشر",
+      "ur": "ابشر اکاؤنٹ رجسٹریشن",
+      "hi": "अबशर अकाउंट पंजीकरण"
+     }
+    },
+    {
+     "id": "absher_reset",
+     "icon": "manage_accounts",
+     "color": "#00897B",
+     "url": "https://www.absher.sa/wps/portal/individuals/static/resetpassword/!ut/p/z1/04_iUlDg4tKPAFJABjKBwtGPykssy0xPLMnMz0vM0Y_Qj4wyizd1DnD2tPA1NnQPCDU3MHIzN_FyNvN2DzMx1vfSj8KvIDg1T78gO1ARAFVoFK4!/",
+     "name": {
+      "bn": "আবশের পাসওয়ার্ড ভুলে গেলে",
+      "en": "Forgot Absher password",
+      "ar": "Forgot Absher password",
+      "ur": "Forgot Absher password",
+      "hi": "Forgot Absher password"
+     }
+    },
+    {
+     "id": "exit_reentry",
+     "icon": "flight_takeoff",
+     "color": "#E53935",
+     "url": "https://www.absher.sa/wps/myportal/individuals/!ut/p/z1/jZHRboIwFIafxQsuxzktKGR3Zbo6nGHDgNKbBRdWybA1yCS-_XDOCxYc9q4n3_ef5i8IWIFQ6SGXaZVrlRbNPRGjN3yy7Smx6SwI6ARfHxzmsDmhGI9g-QNwQtiUcnzmPKQNwIjlMI-4ZAji5F85DH_9v2MvpJ6FyAN69i_7OV0MkfnzIJo5YxIQu9NvLejxY0g8SNxSYFhfwq7T4pYy_gF6yxAdSLuOvgzRfqQbkzGy-OXR8Se8yUDwQchCr8-fy9TaciWIMvvIyqw0v8pmvKmq3f7eQAPrujal1rLIzHe9NbBL2eh9Bas2CYtMwW4bRZE65nefoXu0ioNkg8E3aFXHaA!!/dz/d5/L2dBISEvZ0FBIS9nQSEh/",
+     "name": {
+      "bn": "এক্সিট রি-এন্ট্রি স্ট্যাটাস",
+      "en": "Exit re-entry status",
+      "ar": "حالة الخروج والعودة",
+      "ur": "ایگزٹ ری انٹری اسٹیٹس",
+      "hi": "एग्ज़िट री-एंट्री स्थिति"
+     }
+    },
+    {
+     "id": "travel_records",
+     "icon": "flight_takeoff",
+     "color": "#3949AB",
+     "url": "https://www.absher.sa/wps/myportal/individuals/Home/dependentsservices-dupe/dependentsservices-inquiries-dupe/travelrecordsdeptdupe/!ut/p/z1/jVDLDoIwELzzFfxBd9vyuGJBKA9RGxF7MRyMIVH0YEz8e6uJRgw-9rDbZmd2dodoy7Yti9SmmMdr6n2I7ppzu21O7aFrdqQmK-2uXZoLTHyala7gMFMiU3RCKURAlncASM4T5AbAEGEmvEo5SY4AQLRpO2IqpF8wjL0gBAku5DIcMZDswe9FAKM5NW2IS3rnP8fHVDkQpEW5yLwQS-SD_NdJf_I_A_Q_938B6O_rpb8MUpvOiOj-HQM2Dwj1ffy1yZuEX2EIQTUde2kUs5vEcb8wUV-iVm6v6eQlNA!!/dz/d5/L2dBISEvZ0FBIS9nQSEh/",
+     "name": {
+      "bn": "পরিবারের ভ্রমণের রেকর্ড (ডিপেন্ডেন্ট)",
+      "en": "Dependents travel records",
+      "ar": "Dependents travel records",
+      "ur": "Dependents travel records",
+      "hi": "Dependents travel records"
+     }
+    },
+    {
+     "id": "final_exit",
+     "icon": "logout",
+     "color": "#C62828",
+     "url": "https://www.absher.sa/wps/myportal/individuals/!ut/p/z1/jZHRboIwFIafxQsuxzktKGR3Zbo6nGHDgNKbBRdWybA1yCS-_XDOCxYc9q4n3_ef5i8IWIFQ6SGXaZVrlRbNPRGjN3yy7Smx6SwI6ARfHxzmsDmhGI9g-QNwQtiUcnzmPKQNwIjlMI-4ZAji5F85DH_9v2MvpJ6FyAN69i_7OV0MkfnzIJo5YxIQu9NvLejxY0g8SNxSYFhfwq7T4pYy_gF6yxAdSLuOvgzRfqQbkzGy-OXR8Se8yUDwQchCr8-fy9TaciWIMvvIyqw0v8pmvKmq3f7eQAPrujal1rLIzHe9NbBL2eh9Bas2CYtMwW4bRZE65nefoXu0ioNkg8E3aFXHaA!!/dz/d5/L2dBISEvZ0FBIS9nQSEh/",
+     "name": {
+      "bn": "ফাইনাল এক্সিট",
+      "en": "Final exit",
+      "ar": "الخروج النهائي",
+      "ur": "فائنل ایگزٹ",
+      "hi": "फ़ाइनल एग्ज़िट"
+     }
+    },
+    {
+     "id": "self_final_exit",
+     "icon": "logout",
+     "color": "#C62828",
+     "url": "https://sso.hrsd.gov.sa/login?ReturnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3DUCRM2%26redirect_uri%3Dhttps%253A%252F%252Fselfservice.hrsd.gov.sa%252Fnode%252F%26response_type%3Dcode%26scope%3Dopenid",
+     "name": {
+      "bn": "নিজে ফাইনাল এক্সিট আবেদন",
+      "en": "Apply final exit yourself",
+      "ar": "Apply final exit yourself",
+      "ur": "Apply final exit yourself",
+      "hi": "Apply final exit yourself"
+     }
+    },
+    {
+     "id": "sponsor_transfer",
+     "icon": "swap_horiz",
+     "color": "#FB8C00",
+     "url": "https://es.hrsd.gov.sa/Services/Inquiry/LaborOfficeServicesInquiry.aspx",
+     "name": {
+      "bn": "স্পনসর ট্রান্সফার স্ট্যাটাস",
+      "en": "Sponsorship transfer status",
+      "ar": "حالة نقل الكفالة",
+      "ur": "کفالت ٹرانسفر اسٹیٹس",
+      "hi": "प्रायोजक स्थानांतरण स्थिति"
+     }
+    },
+    {
+     "id": "huroob",
+     "icon": "directions_run",
+     "color": "#F4511E",
+     "url": "https://es.hrsd.gov.sa/services/inquiry/nonsaudiempinquiry.aspx",
+     "name": {
+      "bn": "হুরুব ও চাকরির স্ট্যাটাস",
+      "en": "Huroob & employment status",
+      "ar": "بلاغ التغيب وحالة العمل",
+      "ur": "ہروب اور ملازمت اسٹیٹس",
+      "hi": "हुरूब और रोज़गार स्थिति"
+     }
+    },
+    {
+     "id": "skill_test",
+     "icon": "verified",
+     "color": "#1E88E5",
+     "url": "https://svp-international.pacc.sa",
+     "name": {
+      "bn": "স্কিল ও পেশা টেস্টের ফল",
+      "en": "Skill & profession test result",
+      "ar": "نتيجة اختبار المهارات",
+      "ur": "اسکل ٹیسٹ رزلٹ",
+      "hi": "स्किल टेस्ट परिणाम"
+     }
+    },
+    {
+     "id": "sim_check",
+     "icon": "sim_card",
+     "color": "#00ACC1",
+     "url": "https://mutasilind.cst.gov.sa/Arqami/Inquiry",
+     "name": {
+      "bn": "নিবন্ধিত সিম চেক",
+      "en": "Check registered SIMs",
+      "ar": "الشرائح المسجلة",
+      "ur": "رجسٹرڈ سم چیک",
+      "hi": "पंजीकृत सिम जाँच"
+     }
+    },
+    {
+     "id": "sim_cancel",
+     "icon": "sim_card",
+     "color": "#E53935",
+     "url": "app://sim_cancel",
+     "name": {
+      "bn": "অতিরিক্ত সিম বন্ধ করুন",
+      "en": "Cancel extra SIMs",
+      "ar": "Cancel extra SIMs",
+      "ur": "Cancel extra SIMs",
+      "hi": "Cancel extra SIMs"
+     }
+    },
+    {
+     "id": "birth_cert",
+     "icon": "child_care",
+     "color": "#5E35B1",
+     "url": "https://www.absher.sa/wps/portal/individuals/Home/myservices/einquiries/civilaffairs/vbc/!ut/p/z1/pZHNDoIwEIQfqdulIlf-KUWXSATsxXAyTRQ9GJ9fwIskphKd2ybzTSazTLOW6b57mFN3N9e-Ow_3QbtHF4uQZx4qqigB169iUiJ3gIA1k2EVlqH0Ng6nbRaBBBUFBREKgUwv4UEKkXGByqt5BH5dJus8Th2Q_D8eYCE_kw_BDoOBTgl_4d-TlvEWg7bHN0xPFtsHXhmWia2GccMPLeYjfat5u-xHtWCkeQLRVrVE/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Vu/",
+     "name": {
+      "bn": "জন্ম সনদ চেক",
+      "en": "Birth certificate check",
+      "ar": "التحقق من شهادة الميلاد",
+      "ur": "پیدائشی سرٹیفکیٹ",
+      "hi": "जन्म प्रमाणपत्र जाँच"
+     }
+    },
+    {
+     "id": "furijat",
+     "icon": "receipt",
+     "color": "#6D4C41",
+     "url": "https://www.absher.sa/wps/portal/individuals/Home/myservices/einquiries/diwan/validateprisonerbill/!ut/p/z1/pZHLDoIwEEU_qdOHpVsoSitgwUQe3RhWpomiC-P3C7iRxFSis5vknJvJHWRRg2zfPdypu7tr352HvbX8yEkmsRIkFVxyKBWlVJQ5AROgegJWspBa5BSbnYpBQxpHmTEklQzZJT5oxhRmA1DhGMKq2ATbdUJB4_98gIX-bEKI9iQa7MSQX_z3pGW-B7D--BrZCfF94JXhqdgLjB1-uGJe0rczb5fDOA047Z4RUUtg/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Vu/",
+     "name": {
+      "bn": "ফুরিজাত বিল চেক",
+      "en": "Furijat bill check",
+      "ar": "التحقق من فاتورة فرجت",
+      "ur": "فرجت بل چیک",
+      "hi": "फ़ुरिजात बिल जाँच"
+     }
+    },
+    {
+     "id": "cr_check",
+     "icon": "store",
+     "color": "#8D6E63",
+     "url": "https://mc.gov.sa/ar/eservices/Pages/Commercial-data.aspx",
+     "name": {
+      "bn": "কোম্পানির CR চেক",
+      "en": "Check CR details",
+      "ar": "بيانات السجل التجاري",
+      "ur": "سی آر تفصیلات",
+      "hi": "CR विवरण जाँच"
+     }
+    }
+   ]
+  },
+  {
+   "id": "violations",
+   "icon": "gavel",
+   "color": "#E53935",
+   "name": {
+    "bn": "সব ভায়োলেশন চেক",
+    "en": "All violations check",
+    "ar": "جميع المخالفات",
+    "ur": "تمام خلاف ورزیاں",
+    "hi": "सभी उल्लंघन"
+   },
+   "items": [
+    {
+     "id": "criminal_record",
+     "icon": "fingerprint",
+     "color": "#5E35B1",
+     "url": "https://www.absher.sa/wps/portal/individuals/static/pss-absher-reports-inquiry/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zizYx8nA09LIy8DVzdTQ3MfAON_LxNgowNDAz0w8EKTJ0DnD0tfI0N3QNCzQ2M3MxNvJzNvN3DDMz1o4jRb4ADOBoQpx-Pgij8xofrR4GV4PMBITMKckNDIwwyHQF_D12W/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Vu/",
+     "name": {
+      "bn": "ক্রিমিনাল রেকর্ড যাচাই",
+      "en": "Verify criminal record",
+      "ar": "التحقق من السجل الجنائي",
+      "ur": "کریمنل ریکارڈ تصدیق",
+      "hi": "आपराधिक रिकॉर्ड जाँच"
+     }
+    },
+    {
+     "id": "travel_ban",
+     "icon": "flight",
+     "color": "#C62828",
+     "url": "https://www.absher.sa/wps/myportal/individuals/Home/mostpopular.dupe/grq/!ut/p/z1/04_iUlDg4tKPAFJABjKBwtGPykssy0xPLMnMz0vM0Y_Qj4wyizfwNDHxMDQx8rZw8XE2cLT0sbT0tDQzNPA31Q-HKEABjgZOQUZOxgYG7v5G-lGk60c2iUj9uBVE4Tfei5AFwal5QEuiUJX5GxsaGgQ6m4cFm3r4GAJNginAEw6EXBIJ9Ik5khUeAWYGgRYeYd5Bfu5GICuC9SPd9SODjYtdTQPB_saruiA3NDSi0jUzIDfPIt1RUREArHWncw!!/",
+     "name": {
+      "bn": "ট্রাভেল ব্যান চেক (জেনারেলাইজেশন রিপোর্ট)",
+      "en": "Travel ban check (Generalization report)",
+      "ar": "Travel ban check",
+      "ur": "Travel ban check",
+      "hi": "Travel ban check"
+     }
+    },
+    {
+     "id": "general_violation",
+     "icon": "warning",
+     "color": "#FB8C00",
+     "url": "https://efaa.sa/Home.aspx",
+     "name": {
+      "bn": "সাধারণ ভায়োলেশন চেক",
+      "en": "General violations check",
+      "ar": "المخالفات العامة",
+      "ur": "عام خلاف ورزیاں",
+      "hi": "सामान्य उल्लंघन"
+     }
+    },
+    {
+     "id": "traffic_fines",
+     "icon": "car_crash",
+     "color": "#E53935",
+     "url": "https://www.absher.sa/wps/portal/individuals/Home/myservices/einquiries/traffic/qtvfvisitor/!ut/p/z1/pZFLD4IwEIR_UrdLgV55CeVhgYSHvRhOpomiB-PvF_AiialE57bJfJPJLFGkJ2ocHvo03PV1HM7TfVDO0cE8oAnHDKrUhQqbuqyKCEEC6RaDHZSB4IVF5T4JQUAW-rmUyNAmagsPgrGEMsx4S0Pw2nLnplFsgaD_8QAb-ZU88Gv0JzqW-Av_nrSNNxiUOb4jarGYPvDKMExsNMwbfmixHulbzdulmdWDFvoJ40XUGg!!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Vu/",
+     "name": {
+      "bn": "ভিজিটরদের ট্রাফিক জরিমানা চেক",
+      "en": "Traffic fines check for visitors",
+      "ar": "الاستعلام عن مخالفات الزوار المرورية",
+      "ur": "وزیٹرز کے ٹریفک جرمانے",
+      "hi": "विज़िटर्स के ट्रैफ़िक जुर्माने"
+     }
+    },
+    {
+     "id": "traffic_fine_services",
+     "icon": "receipt_long",
+     "color": "#EF6C00",
+     "url": "https://www.absher.sa/wps/myportal/individuals/Home/myservices/eservices/traffic/trafficviolationsnew/!ut/p/z1/lVPLboMwELzzFfkD7xowcCTmZSA1KQqlvlQcqgqppT1Ulfr3NVGLAkkcakvGlnd2ZscLUdZmY1mk1R-9OV1mB6KG7qt_6T7796F7JS15VOyJ0ZJj5tMC3ASBVcCbmjGE1CUPxwCYjRC293RrA6SSEjVeC8fJ0KFFSmsXwnwnD4UXoUTnIv4000r8X4AflRzCoAwCEWiB0j3iJ_2SpwHsaZElZV4iBGyJPydQa-o3EMzwqYgcYHUMFPNKGwS_eJdXXPg7G-VdFoGAItqWUlKH_le_32AEYVMlXh6nNghchzcIXOX_Vf10Xf1X9cM6vOGBlLm98nmB5_1TPw-aRM3DpI0Ie-41tZtpH0ebLhDN_4NbShYUCycmClOrGDOMvWDOQG9lAPLxdphG-x33Qs8f2_ZINw!!/dz/d5/L2dBISEvZ0FBIS9nQSEh/",
+     "name": {
+      "bn": "ট্রাফিক জরিমানা: আপত্তি, মাফ ও সময় বাড়ানো",
+      "en": "Traffic fines: objection & extension",
+      "ar": "Traffic violations services",
+      "ur": "Traffic violations services",
+      "hi": "Traffic violations services"
+     }
+    },
+    {
+     "id": "curfew",
+     "icon": "timer_off",
+     "color": "#455A64",
+     "url": "https://www.absher.sa/wps/portal/individuals/Home/myservices/einquiries/diwan/tpi/!ut/p/z1/ldDNDoIwDAfwZ-EJ1nVz7goD2QQcmPDhLoaTWaLowfj8EqKJXkB7a_Lrv02JIx1xQ__wp_7ur0N_HvuDE0eBuaJaYiaFElBpxpisCgSJpJ0AfFUI0R4jBpBaJO7_-c-k3-ZngJuPb4mbyEqVysiCUbvTMRjI4ii3FjPFXwAM55rycUVDYwibcrPeJikDQxcAwBvMPGnpzNulrjvwxodB8ARPqkyE/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Vu/",
+     "name": {
+      "bn": "কারফিউ স্ট্যাটাস",
+      "en": "Curfew status inquiry",
+      "ar": "الاستعلام عن حظر التجول",
+      "ur": "کرفیو اسٹیٹس",
+      "hi": "कर्फ़्यू स्थिति"
+     }
+    },
+    {
+     "id": "simah",
+     "icon": "account_balance",
+     "color": "#283593",
+     "url": "https://eservices.molim.sa/",
+     "name": {
+      "bn": "সিমাহ: লোন ও বকেয়া বিল রিপোর্ট",
+      "en": "SIMAH: loans & unpaid bills",
+      "ar": "SIMAH: loans & unpaid bills",
+      "ur": "SIMAH: loans & unpaid bills",
+      "hi": "SIMAH: loans & unpaid bills"
+     }
+    }
+   ]
+  },
+  {
+   "id": "driving",
+   "icon": "directions_car",
+   "color": "#F57C00",
+   "name": {
+    "bn": "ড্রাইভিং লাইসেন্স",
+    "en": "Driving license",
+    "ar": "رخصة القيادة",
+    "ur": "ڈرائیونگ لائسنس",
+    "hi": "ड्राइविंग लाइसेंस"
+   },
+   "items": [
+    {
+     "id": "license_status",
+     "icon": "directions_car",
+     "color": "#1E88E5",
+     "url": "https://www.absher.sa/wps/myportal/individuals/Home/myservices/einquiries/traffic/pqdlinfo/!ut/p/z1/lZHLCsIwEEX3_Qr_IDPpM8uavhuJWlprNtKFlIJWFyL490ZBsCpVZ5EHOXfuHUKUMZkYBqn1pg_Py-BCVN-cu7Y5dYe-2ZGarJWzcajgmHg0lzxmsKB5EolMIDCHrO4ADMqH6ZJOTYBYUqJuz6llJWjRPKaFDX42k2XuBijR-qh_7vSj_gF4geDgM8FYyhwEaf-pfwfUL_OPAGp8vGwY8D1_se21iRpi0kSEBXerwk60DcADGPmHb0leLLwKA_CreeRmYWzeLI77Uld9Cbu0vQKwH3MD/dz/d5/L2dBISEvZ0FBIS9nQSEh/",
+     "name": {
+      "bn": "লাইসেন্স স্ট্যাটাস চেক",
+      "en": "Check license status",
+      "ar": "حالة الرخصة",
+      "ur": "لائسنس اسٹیٹس",
+      "hi": "लाइसेंस स्थिति"
+     }
+    },
+    {
+     "id": "license_issue",
+     "icon": "badge",
+     "color": "#2E7D32",
+     "url": "https://www.absher.sa/wps/portal/traffic/Home/tf-book-appointment/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziDTxNTDwMTYy83X2CTQ0CLULdjC2MXQ0NLMz0wyEKUICjgVOQkZOxgYG7v5F-FOn6kU0iUj9uBVH4jQ_Xj8KiBNUHhMwITs3TL8gNDY0wyDIBAPI_3O8!/dz/d5/L0lHSkovd0RNQUZrQUVnQSEhLzROVkUvYXI!/",
+     "name": {
+      "bn": "নতুন ড্রাইভিং লাইসেন্স (অ্যাপয়েন্টমেন্ট)",
+      "en": "New driving licence (appointment)",
+      "ar": "New driving licence",
+      "ur": "New driving licence",
+      "hi": "New driving licence"
+     }
+    },
+    {
+     "id": "traffic_appt",
+     "icon": "calendar_month",
+     "color": "#3949AB",
+     "url": "https://www.absher.sa/wps/myportal/individuals/Home/myservices/appointments/traffic/eureg/!ut/p/z1/lZRRc6IwEMc_ja9mk0CS6VtEDQgUxJp6ebmxNxx1RqVj6fn1L2JnWtSmNDyR_H_73102IINWyOzX_zbVutnU-_XWvv8y7DdEnhdij8QZ0RzmghEpcUIgI-ixFSiMZUgUJEoVBOaBxJTLERbYR-bEf7EkvPOX26OCjCiAsgbms78iCx_kLM2WMR_jDHs3-Y5BP_5rgelT_4cgIxNbP5dcppiAZi3PSBLgUJyONQUWW22RzikofuXPYmr5YjzJ7DkQ_8L_Krybj1k_3g_yIBIpxSpfciBT7s0CFgsQuOU9upgGUaLilOcTiMbavy8KQSAGJ6808JZ3hD_zjgb14h0JdvJnnFGQItTiIbDtmV_x14KfzY_QeAxS51M-myiqEq-fv2PAvr0_5oake4O-i2G6RXZrsJJLwY0hdQpOU-j4jucxucghAGFzeBiF2b3G7Ry6kmwb7YyQAZohU23rp_NfTe6fqKiQOZR_y0N5GL4d7PZz07y83g1gAMfjcVjVdbUth3_q3QBuIc_1a4NWXSValHv0slt-XivYRPbJd4-iEf8Bbpwfpg!!/dz/d5/L2dBISEvZ0FBIS9nQSEh/",
+     "name": {
+      "bn": "ট্রাফিক (মুরুর) অ্যাপয়েন্টমেন্ট",
+      "en": "Traffic (Muroor) appointment",
+      "ar": "Traffic (Muroor) appointment",
+      "ur": "Traffic (Muroor) appointment",
+      "hi": "Traffic (Muroor) appointment"
+     }
+    },
+    {
+     "id": "vehicle_transfer",
+     "icon": "swap_horiz",
+     "color": "#6D4C41",
+     "url": "https://www.absher.sa/wps/myportal/individuals/Home/vehileservices-dupe/vehileservices-services-dupe/vot_v2/!ut/p/z1/lVNBboMwELznFfmB1ws2cCSGgA3EJCg05VLlUFWR2rSHqlJ_XxO1FYYEiC1hW-zsjHfHpFksl4sFOZjFbLof60Ca8_Hr9HL8PL2fj6_kQB4b_sQxFzT1MdOCxsB3JahNWiAIJA-XALBGCKsdrhyARCNp2t_SdVPqYpZgxSBUhd5nXkQ1da_iu5lm4v8C_CgXEAZ5EMiAU9Dsgu_oTwLYYpauc5VTCHgfPyRo5tx_hMDCJzJygVcxIFWlKRD84pkohfQLh-pNGoGELFrlWqOL9-r3axpBWJdrT8WJA5LOw48ItPDA1hR4CaKuuClvwqb04zz8Tf09fp_XCNzUvqiUh-Czvv4hwX34YcAs_926__Ze_UODNePPQ9kCh_6vns-GpLHDtEMpbIVXVyw1PmjbfIXIfsdTSnoUvU7-U4xZfTRD6-XxDDiVYUqDadfH2747Dt_xSbbzB04WOKM!/dz/d5/L2dBISEvZ0FBIS9nQSEh/",
+     "name": {
+      "bn": "গাড়ির মালিকানা বদল (বিক্রি)",
+      "en": "Vehicle ownership transfer",
+      "ar": "Vehicle ownership transfer",
+      "ur": "Vehicle ownership transfer",
+      "hi": "Vehicle ownership transfer"
+     }
+    },
+    {
+     "id": "license_replace",
+     "icon": "credit_card",
+     "color": "#F4511E",
+     "url": "https://www.absher.sa/wps/myportal/individuals/Home/myservices/eservices/traffic/rdlnew/!ut/p/z1/lVLLboMwELzzFfkD7xrz8JHYBAxOTYpCqS8Vh6pCamkPVaX-fZ1UjQKJCN2DH9qdndmxifVWK88jrdvc4XwZXYgduq_-pfvs34fulbTk0YZPIdUC85iWmZIMwjoFikXlAwB5OBbAKBJY39O1S2eGEntIK8ZyZA5P6wCSYmv2ZSTRILuKP--0EP9XEEstIOGac8VDBBMc8Sf9RmQcdrTMN7rQCDyc4i8J7JL5ZwgW6Q9EJVS89dHc5RIUlHKtjaGM_ld_3KCEpKk2UZFmPihchp8Z0M4_TzEe8NL_-nlwJHZcZnxE2ImoqYPc6TjQXCEa_6NbSiYUEydOFHNWz3ZwXn687X-j_U571asf5J5ADQ!!/dz/d5/L2dBISEvZ0FBIS9nQSEh/",
+     "name": {
+      "bn": "ড্রাইভিং লাইসেন্স নবায়ন",
+      "en": "Renew driving licence",
+      "ar": "تجديد أو بدل الرخصة",
+      "ur": "لائسنس تجدید",
+      "hi": "लाइसेंस नवीनीकरण"
+     }
+    },
+    {
+     "id": "taqdeer",
+     "icon": "price_check",
+     "color": "#00897B",
+     "url": "https://taqdeer.taqeem.gov.sa/en",
+     "name": {
+      "bn": "দুর্ঘটনার ক্ষতির হিসাব (তাকদির)",
+      "en": "Accident assessment (Taqdeer)",
+      "ar": "تقدير الأضرار",
+      "ur": "حادثہ تخمینہ (تقدیر)",
+      "hi": "दुर्घटना आकलन (तक़दीर)"
+     }
+    },
+    {
+     "id": "fahas",
+     "icon": "car_repair",
+     "color": "#3949AB",
+     "url": "https://pti.saso.gov.sa/apt/",
+     "name": {
+      "bn": "গাড়ি পরিদর্শন (ফাহাস)",
+      "en": "Vehicle inspection (Fahas)",
+      "ar": "الفحص الدوري",
+      "ur": "گاڑی معائنہ (فحص)",
+      "hi": "वाहन निरीक्षण (फ़हस)"
+     }
+    },
+    {
+     "id": "najm",
+     "icon": "report",
+     "color": "#E53935",
+     "url": "https://www.najm.sa",
+     "name": {
+      "bn": "দুর্ঘটনা রিপোর্ট (নাজম)",
+      "en": "Accident report (Najm)",
+      "ar": "نجم",
+      "ur": "حادثہ رپورٹ (نجم)",
+      "hi": "दुर्घटना रिपोर्ट (नज्म)"
+     }
+    }
+   ]
+  },
+  {
+   "id": "car_ins",
+   "icon": "shield",
+   "color": "#7B3FC4",
+   "name": {
+    "bn": "গাড়ি ও লাইফ বিমা",
+    "en": "Car & life insurance",
+    "ar": "تأمين المركبات والحياة",
+    "ur": "گاڑی اور لائف انشورنس",
+    "hi": "वाहन और जीवन बीमा"
+   },
+   "items": [
+    {
+     "id": "tameeni_car",
+     "icon": "directions_car",
+     "color": "#1E88E5",
+     "url": "https://www.tameeni.com/car/en",
+     "name": {
+      "bn": "গাড়ির বিমা (তামিনি)",
+      "en": "Car insurance (Tameeni)",
+      "ar": "تأمين المركبات (تأميني)",
+      "ur": "گاڑی انشورنس (تأمینی)",
+      "hi": "वाहन बीमा (तामीनी)"
+     }
+    },
+    {
+     "id": "tameeni_life",
+     "icon": "verified_user",
+     "color": "#43A047",
+     "url": "https://www.tameeni.com/en/ps",
+     "name": {
+      "bn": "লাইফ বিমা: প্রোটেকশন ও সেভিং (তামিনি)",
+      "en": "Life insurance: protection & saving (Tameeni)",
+      "ar": "الحماية والادخار (تأميني)",
+      "ur": "لائف انشورنس: تحفظ اور بچت (تأمینی)",
+      "hi": "जीवन बीमा: सुरक्षा और बचत (तामीनी)"
+     }
+    },
+    {
+     "id": "tameeni_health",
+     "icon": "health_and_safety",
+     "color": "#00897B",
+     "url": "https://health.tameeni.com/en",
+     "name": {
+      "bn": "স্বাস্থ্য বিমা (তামিনি)",
+      "en": "Health insurance (Tameeni)",
+      "ar": "التأمين الصحي (تأميني)",
+      "ur": "ہیلتھ انشورنس (تأمینی)",
+      "hi": "स्वास्थ्य बीमा (तामीनी)"
+     }
+    },
+    {
+     "id": "bcare_car",
+     "icon": "directions_car",
+     "color": "#5E35B1",
+     "url": "https://www.bcare.com.sa/en/motor-insurance/third-party",
+     "name": {
+      "bn": "গাড়ির বিমা (বিকেয়ার)",
+      "en": "Car insurance (Bcare)",
+      "ar": "تأمين المركبات (بي كير)",
+      "ur": "گاڑی انشورنس (بی کیئر)",
+      "hi": "वाहन बीमा (बीकेयर)"
+     }
+    },
+    {
+     "id": "bcare_travel",
+     "icon": "flight",
+     "color": "#3949AB",
+     "url": "https://www.bcare.com.sa/en/travel-insurance",
+     "name": {
+      "bn": "ট্রাভেল বিমা (বিকেয়ার)",
+      "en": "Travel insurance (Bcare)",
+      "ar": "تأمين السفر (بي كير)",
+      "ur": "ٹریول انشورنس (بی کیئر)",
+      "hi": "यात्रा बीमा (बीकेयर)"
+     }
+    },
+    {
+     "id": "bcare_helpers",
+     "icon": "family_restroom",
+     "color": "#EF6C00",
+     "url": "https://www.bcare.com.sa/en/domestic-helpers-insurance",
+     "name": {
+      "bn": "গৃহকর্মীর বিমা (বিকেয়ার)",
+      "en": "Domestic helper insurance (Bcare)",
+      "ar": "تأمين العمالة المنزلية (بي كير)",
+      "ur": "گھریلو ملازم انشورنس (بی کیئر)",
+      "hi": "घरेलू कामगार बीमा (बीकेयर)"
+     }
+    }
+   ]
+  },
+  {
+   "id": "health_ins",
+   "icon": "health_and_safety",
+   "color": "#00897B",
+   "name": {
+    "bn": "ইকামা ও স্বাস্থ্য বিমা",
+    "en": "Iqama & health insurance",
+    "ar": "الإقامة والتأمين الصحي",
+    "ur": "اقامہ اور ہیلتھ انشورنس",
+    "hi": "इक़ामा और स्वास्थ्य बीमा"
+   },
+   "items": [
+    {
+     "id": "health_ins_check",
+     "icon": "health_and_safety",
+     "color": "#1E88E5",
+     "url": "https://www.chi.gov.sa/en/ServicesDirectory/pages/eservices-checkinsurance.aspx",
+     "name": {
+      "bn": "স্বাস্থ্য বিমা চেক",
+      "en": "Health insurance check",
+      "ar": "التحقق من التأمين",
+      "ur": "ہیلتھ انشورنس چیک",
+      "hi": "स्वास्थ्य बीमा जाँच"
+     }
+    },
+    {
+     "id": "visitor_ins",
+     "icon": "person_pin",
+     "color": "#00897B",
+     "url": "https://www.chi.gov.sa/en/ServicesDirectory/Pages/Eservices-CheckVisitorsInsurance.aspx?servicename=checkvisitorsinsurance",
+     "name": {
+      "bn": "ভিজিটর বিমা চেক",
+      "en": "Visitor insurance check",
+      "ar": "تأمين الزائر",
+      "ur": "وزیٹر انشورنس",
+      "hi": "विज़िटर बीमा जाँच"
+     }
+    },
+    {
+     "id": "medgulf",
+     "icon": "medical_services",
+     "color": "#43A047",
+     "url": "https://www.medgulf.com.sa/visit-visa/visa-details",
+     "name": {
+      "bn": "বিমা বাড়ান (মেডগাল্ফ)",
+      "en": "Extend insurance (Medgulf)",
+      "ar": "تمديد التأمين (ميدغلف)",
+      "ur": "انشورنس توسیع (میڈگلف)",
+      "hi": "बीमा बढ़ाएँ (मेडगल्फ़)"
+     }
+    },
+    {
+     "id": "rajhi_ext",
+     "icon": "add_moderator",
+     "color": "#00897B",
+     "url": "https://www.alrajhitakaful.com/en/visit-visa-extension",
+     "name": {
+      "bn": "বিমা বাড়ান (আল রাজি)",
+      "en": "Extend insurance (AlRajhi)",
+      "ar": "تمديد التأمين (الراجحي)",
+      "ur": "انشورنس توسیع (الراجحی)",
+      "hi": "बीमा बढ़ाएँ (अलराजही)"
+     }
+    },
+    {
+     "id": "health_cert",
+     "icon": "verified",
+     "color": "#43A047",
+     "url": "https://visa.mofa.gov.sa/VisaPerson/CheckMedicalResult",
+     "name": {
+      "bn": "হেলথ সার্টিফিকেট যাচাই",
+      "en": "Health certificate verification",
+      "ar": "التحقق من الشهادة الصحية",
+      "ur": "ہیلتھ سرٹیفکیٹ تصدیق",
+      "hi": "हेल्थ सर्टिफ़िकेट जाँच"
+     }
+    }
+   ]
+  },
+  {
+   "id": "visa",
+   "icon": "travel_explore",
+   "color": "#3949AB",
+   "name": {
+    "bn": "ভিসা ও মেডিকেল",
+    "en": "Visa & medical",
+    "ar": "التأشيرة والفحص الطبي",
+    "ur": "ویزا اور میڈیکل",
+    "hi": "वीज़ा और मेडिकल"
+   },
+   "items": [
+    {
+     "id": "medical_status",
+     "icon": "medical_information",
+     "color": "#00897B",
+     "url": "https://wafid.com/en/medical-status-search/",
+     "name": {
+      "bn": "মেডিকেল টেস্ট স্ট্যাটাস",
+      "en": "Medical test status",
+      "ar": "حالة الفحص الطبي",
+      "ur": "میڈیکل ٹیسٹ اسٹیٹس",
+      "hi": "मेडिकल टेस्ट स्थिति"
+     }
+    },
+    {
+     "id": "wafid_appt",
+     "icon": "event_available",
+     "color": "#F4511E",
+     "url": "https://wafid.com/en/book-appointment/",
+     "name": {
+      "bn": "ওয়াফিদ (GAMCA) অ্যাপয়েন্টমেন্ট",
+      "en": "Wafid (GAMCA) appointment",
+      "ar": "موعد وافد",
+      "ur": "وافد اپائنٹمنٹ",
+      "hi": "वाफ़िद अपॉइंटमेंट"
+     }
+    },
+    {
+     "id": "tourist_visa",
+     "icon": "travel_explore",
+     "color": "#3949AB",
+     "url": "https://visa.visitsaudi.com/",
+     "name": {
+      "bn": "সৌদি ট্যুরিস্ট ই-ভিসা",
+      "en": "Saudi tourism e-visa",
+      "ar": "التأشيرة السياحية",
+      "ur": "سعودی ٹورسٹ ای ویزا",
+      "hi": "सऊदी टूरिस्ट ई-वीज़ा"
+     }
+    },
+    {
+     "id": "visa_status",
+     "icon": "verified_user",
+     "color": "#1E88E5",
+     "url": "https://visa.mofa.gov.sa/Home/Index",
+     "name": {
+      "bn": "ভিসা স্ট্যাটাস চেক",
+      "en": "Visa status check",
+      "ar": "الاستعلام عن التأشيرة",
+      "ur": "ویزا اسٹیٹس",
+      "hi": "वीज़ा स्थिति"
+     }
+    },
+    {
+     "id": "family_visit_validity",
+     "icon": "family_restroom",
+     "color": "#1E88E5",
+     "url": "https://www.absher.sa/wps/myportal/individuals/Home/myservices/homeregistered/!ut/p/z1/jZPLcoIwFIafxmXNSbgk011AjIIMFgeq2XS0Q9EpgoNUxrcvaF1QAT27nPm_cw-SaIlkuj7t4nWxy9J1Ur1XUv-AqapOsEocQRYacNv1AoeOsIdV9H4RCIz5hAiYCeETeDM5Vig3MMMakjXfYRz--P9uwyeGAiA8cuVv-T2PWFV4yil3MYFQb-UbCWpeJzMTT1jNhwroThXMd98UEBSFaGWgFcsl-OUtWHe3zzXTXW3Na-bcnDJXwWIeUCBjqtqm7jBg-C6_7igV748sryoWiPbkMDp4R3-O7ynwwTD7eBECfY7vEchHxyhbVtQ8p0c7lM0kLMQj4OF8TG1LVDHuBC1L6hXUW-i5g8uYbCTjJNtc_x9PNwqLkcyjryiP8uFPXrm3RXE4vg5gAGVZDuMsi5No-JntB9CGbLNjgZZNJVpEKTrsgyBIz7uLvXz7ls_OSnKKfwFQImp8/dz/d5/L2dBISEvZ0FBIS9nQSEh/",
+     "name": {
+      "bn": "ফ্যামিলি ভিজিট ভিসার মেয়াদ",
+      "en": "Family visit visa validity",
+      "ar": "صلاحية تأشيرة الزيارة العائلية",
+      "ur": "فیملی وزٹ ویزا میعاد",
+      "hi": "फ़ैमिली विज़िट वीज़ा वैधता"
+     }
+    },
+    {
+     "id": "okala",
+     "icon": "description",
+     "color": "#8E24AA",
+     "url": "https://visa.mofa.gov.sa/Account/Loginindividuals/Visas",
+     "name": {
+      "bn": "ওকালা চেক",
+      "en": "Wakala (Okala) check",
+      "ar": "الاستعلام عن الوكالة",
+      "ur": "وکالہ چیک",
+      "hi": "वकाला जाँच"
+     }
+    }
+   ]
+  },
+  {
+   "id": "baladiya",
+   "icon": "badge",
+   "color": "#00838F",
+   "name": {
+    "bn": "বালাদিয়া হেলথ কার্ড",
+    "en": "Baladiya health card",
+    "ar": "الشهادة الصحية (بلدي)",
+    "ur": "بلدیہ ہیلتھ کارڈ",
+    "hi": "बलदिया हेल्थ कार्ड"
+   },
+   "items": [
+    {
+     "id": "balady_register",
+     "icon": "person_add",
+     "color": "#F4511E",
+     "url": "https://balady.gov.sa/en/services/issuance-health-certificate",
+     "name": {
+      "bn": "হেলথ কার্ড রেজিস্ট্রেশন (বালাদি)",
+      "en": "Health card registration (Balady)",
+      "ar": "إصدار شهادة صحية (بلدي)",
+      "ur": "ہیلتھ کارڈ رجسٹریشن (بلدی)",
+      "hi": "हेल्थ कार्ड रजिस्ट्रेशन (बलदी)"
+     }
+    },
+    {
+     "id": "balady_download",
+     "icon": "description",
+     "color": "#00897B",
+     "url": "https://balady.gov.sa/en/services/digital-health-certificate-display",
+     "name": {
+      "bn": "হেলথ কার্ড ডাউনলোড (বালাদি)",
+      "en": "Health card download (Balady)",
+      "ar": "عرض الشهادة الصحية الرقمية (بلدي)",
+      "ur": "ہیلتھ کارڈ ڈاؤن لوڈ (بلدی)",
+      "hi": "हेल्थ कार्ड डाउनलोड (बलदी)"
+     }
+    },
+    {
+     "id": "riyadh_card",
+     "icon": "location_city",
+     "color": "#3949AB",
+     "url": "https://eservices.alriyadh.gov.sa/_layouts/rm_pages/Medical/SearchAllCertificates.aspx",
+     "name": {
+      "bn": "রিয়াদ হেলথ কার্ড তথ্য",
+      "en": "Riyadh health card info",
+      "ar": "الشهادة الصحية (الرياض)",
+      "ur": "ریاض ہیلتھ کارڈ",
+      "hi": "रियाद हेल्थ कार्ड"
+     }
+    }
+   ]
+  },
+  {
+   "id": "umrah",
+   "icon": "mosque",
+   "color": "#795548",
+   "name": {
+    "bn": "উমরাহ ও হজ",
+    "en": "Umrah & Hajj",
+    "ar": "العمرة والحج",
+    "ur": "عمرہ اور حج",
+    "hi": "उमरा और हज"
+   },
+   "items": [
+    {
+     "id": "umrah_visa",
+     "icon": "mosque",
+     "color": "#795548",
+     "url": "https://visa.mofa.gov.sa/account/hajsmartform",
+     "name": {
+      "bn": "উমরাহ ভিসা আবেদন",
+      "en": "Apply Umrah visa",
+      "ar": "طلب تأشيرة عمرة",
+      "ur": "عمرہ ویزا",
+      "hi": "उमरा वीज़ा"
+     }
+    },
+    {
+     "id": "umrah_ins",
+     "icon": "shield",
+     "color": "#00897B",
+     "url": "https://www.riaya-ksa.com/",
+     "name": {
+      "bn": "উমরাহ বিমা চেক",
+      "en": "Umrah insurance check",
+      "ar": "تأمين العمرة",
+      "ur": "عمرہ انشورنس",
+      "hi": "उमरा बीमा"
+     }
+    },
+    {
+     "id": "nusuk",
+     "icon": "event_available",
+     "color": "#43A047",
+     "url": "https://www.nusuk.sa",
+     "name": {
+      "bn": "নুসুক বুকিং",
+      "en": "Nusuk booking",
+      "ar": "حجز نسك",
+      "ur": "نسک بکنگ",
+      "hi": "नुसुक बुकिंग"
+     }
+    }
+   ]
+  },
+  {
+   "id": "airline",
+   "icon": "airplane_ticket",
+   "color": "#1565C0",
+   "name": {
+    "bn": "এয়ারলাইন টিকিট চেক",
+    "en": "Airline ticket check",
+    "ar": "التحقق من تذاكر الطيران",
+    "ur": "ایئرلائن ٹکٹ چیک",
+    "hi": "एयरलाइन टिकट जाँच"
+   },
+   "items": [
+    {
+     "id": "flight_tracker",
+     "icon": "flight",
+     "color": "#F9A825",
+     "url": "https://www.flightaware.com/live/",
+     "name": {
+      "bn": "ফ্লাইট এখন কোথায় (লাইভ ট্র্যাক)",
+      "en": "Live flight tracker",
+      "ar": "Live flight tracker",
+      "ur": "Live flight tracker",
+      "hi": "Live flight tracker"
+     }
+    },
+    {
+     "id": "air_biman",
+     "icon": "airplane_ticket",
+     "color": "#1E88E5",
+     "flag": "🇧🇩",
+     "url": "https://www.biman-airlines.com",
+     "name": {
+      "bn": "বিমান বাংলাদেশ",
+      "en": "Biman Bangladesh",
+      "ar": "بيمان بنغلاديش",
+      "ur": "Biman Bangladesh",
+      "hi": "Biman Bangladesh"
+     }
+    },
+    {
+     "id": "air_usbangla",
+     "icon": "airplane_ticket",
+     "color": "#1E88E5",
+     "flag": "🇧🇩",
+     "url": "https://usbair.com",
+     "name": {
+      "bn": "ইউএস-বাংলা",
+      "en": "US-Bangla Airlines",
+      "ar": "يو إس بنغلا",
+      "ur": "US-Bangla Airlines",
+      "hi": "US-Bangla Airlines"
+     }
+    },
+    {
+     "id": "air_saudia",
+     "icon": "airplane_ticket",
+     "color": "#1E88E5",
+     "flag": "🇸🇦",
+     "url": "https://www.saudia.com",
+     "name": {
+      "bn": "সৌদিয়া",
+      "en": "Saudia",
+      "ar": "الخطوط السعودية",
+      "ur": "Saudia",
+      "hi": "Saudia"
+     }
+    },
+    {
+     "id": "air_flynas",
+     "icon": "airplane_ticket",
+     "color": "#1E88E5",
+     "flag": "🇸🇦",
+     "url": "https://www.flynas.com",
+     "name": {
+      "bn": "ফ্লাইনাস",
+      "en": "flynas",
+      "ar": "طيران ناس",
+      "ur": "flynas",
+      "hi": "flynas"
+     }
+    },
+    {
+     "id": "air_flyadeal",
+     "icon": "airplane_ticket",
+     "color": "#1E88E5",
+     "flag": "🇸🇦",
+     "url": "https://www.flyadeal.com",
+     "name": {
+      "bn": "ফ্লাইআদিল",
+      "en": "flyadeal",
+      "ar": "طيران أديل",
+      "ur": "flyadeal",
+      "hi": "flyadeal"
+     }
+    },
+    {
+     "id": "air_emirates",
+     "icon": "airplane_ticket",
+     "color": "#1E88E5",
+     "flag": "🇦🇪",
+     "url": "https://www.emirates.com",
+     "name": {
+      "bn": "এমিরেটস",
+      "en": "Emirates",
+      "ar": "طيران الإمارات",
+      "ur": "Emirates",
+      "hi": "Emirates"
+     }
+    },
+    {
+     "id": "air_flydubai",
+     "icon": "airplane_ticket",
+     "color": "#1E88E5",
+     "flag": "🇦🇪",
+     "url": "https://www.flydubai.com",
+     "name": {
+      "bn": "ফ্লাইদুবাই",
+      "en": "flydubai",
+      "ar": "فلاي دبي",
+      "ur": "flydubai",
+      "hi": "flydubai"
+     }
+    },
+    {
+     "id": "air_airarabia",
+     "icon": "airplane_ticket",
+     "color": "#1E88E5",
+     "flag": "🇦🇪",
+     "url": "https://www.airarabia.com",
+     "name": {
+      "bn": "এয়ার অ্যারাবিয়া",
+      "en": "Air Arabia",
+      "ar": "العربية للطيران",
+      "ur": "Air Arabia",
+      "hi": "Air Arabia"
+     }
+    },
+    {
+     "id": "air_etihad",
+     "icon": "airplane_ticket",
+     "color": "#1E88E5",
+     "flag": "🇦🇪",
+     "url": "https://www.etihad.com",
+     "name": {
+      "bn": "ইতিহাদ",
+      "en": "Etihad",
+      "ar": "الاتحاد للطيران",
+      "ur": "Etihad",
+      "hi": "Etihad"
+     }
+    },
+    {
+     "id": "air_qatar",
+     "icon": "airplane_ticket",
+     "color": "#1E88E5",
+     "flag": "🇶🇦",
+     "url": "https://www.qatarairways.com",
+     "name": {
+      "bn": "কাতার এয়ারওয়েজ",
+      "en": "Qatar Airways",
+      "ar": "الخطوط القطرية",
+      "ur": "Qatar Airways",
+      "hi": "Qatar Airways"
+     }
+    },
+    {
+     "id": "air_omanair",
+     "icon": "airplane_ticket",
+     "color": "#1E88E5",
+     "flag": "🇴🇲",
+     "url": "https://www.omanair.com",
+     "name": {
+      "bn": "ওমান এয়ার",
+      "en": "Oman Air",
+      "ar": "الطيران العماني",
+      "ur": "Oman Air",
+      "hi": "Oman Air"
+     }
+    },
+    {
+     "id": "air_salamair",
+     "icon": "airplane_ticket",
+     "color": "#1E88E5",
+     "flag": "🇴🇲",
+     "url": "https://www.salamair.com",
+     "name": {
+      "bn": "সালাম এয়ার",
+      "en": "SalamAir",
+      "ar": "طيران السلام",
+      "ur": "SalamAir",
+      "hi": "SalamAir"
+     }
+    },
+    {
+     "id": "air_kuwait",
+     "icon": "airplane_ticket",
+     "color": "#1E88E5",
+     "flag": "🇰🇼",
+     "url": "https://www.kuwaitairways.com",
+     "name": {
+      "bn": "কুয়েত এয়ারওয়েজ",
+      "en": "Kuwait Airways",
+      "ar": "الخطوط الكويتية",
+      "ur": "Kuwait Airways",
+      "hi": "Kuwait Airways"
+     }
+    },
+    {
+     "id": "air_gulfair",
+     "icon": "airplane_ticket",
+     "color": "#1E88E5",
+     "flag": "🇧🇭",
+     "url": "https://www.gulfair.com",
+     "name": {
+      "bn": "গালফ এয়ার",
+      "en": "Gulf Air",
+      "ar": "طيران الخليج",
+      "ur": "Gulf Air",
+      "hi": "Gulf Air"
+     }
+    },
+    {
+     "id": "air_malaysia",
+     "icon": "airplane_ticket",
+     "color": "#1E88E5",
+     "flag": "🇲🇾",
+     "url": "https://www.malaysiaairlines.com",
+     "name": {
+      "bn": "মালয়েশিয়া এয়ারলাইনস",
+      "en": "Malaysia Airlines",
+      "ar": "الخطوط الماليزية",
+      "ur": "Malaysia Airlines",
+      "hi": "Malaysia Airlines"
+     }
+    },
+    {
+     "id": "air_turkish",
+     "icon": "airplane_ticket",
+     "color": "#1E88E5",
+     "flag": "🇹🇷",
+     "url": "https://www.turkishairlines.com",
+     "name": {
+      "bn": "টার্কিশ এয়ারলাইনস",
+      "en": "Turkish Airlines",
+      "ar": "الخطوط التركية",
+      "ur": "Turkish Airlines",
+      "hi": "Turkish Airlines"
+     }
+    },
+    {
+     "id": "air_airindia",
+     "icon": "airplane_ticket",
+     "color": "#1E88E5",
+     "flag": "🇮🇳",
+     "url": "https://www.airindia.com",
+     "name": {
+      "bn": "এয়ার ইন্ডিয়া",
+      "en": "Air India",
+      "ar": "طيران الهند",
+      "ur": "Air India",
+      "hi": "Air India"
+     }
+    },
+    {
+     "id": "air_pia",
+     "icon": "airplane_ticket",
+     "color": "#1E88E5",
+     "flag": "🇵🇰",
+     "url": "https://www.piac.com.pk",
+     "name": {
+      "bn": "পিআইএ",
+      "en": "PIA",
+      "ar": "الخطوط الباكستانية",
+      "ur": "PIA",
+      "hi": "PIA"
+     }
+    },
+    {
+     "id": "air_srilankan",
+     "icon": "airplane_ticket",
+     "color": "#1E88E5",
+     "flag": "🇱🇰",
+     "url": "https://www.srilankan.com",
+     "name": {
+      "bn": "শ্রীলঙ্কান এয়ারলাইনস",
+      "en": "SriLankan Airlines",
+      "ar": "الخطوط السريلانكية",
+      "ur": "SriLankan Airlines",
+      "hi": "SriLankan Airlines"
+     }
+    },
+    {
+     "id": "air_ethiopian",
+     "icon": "airplane_ticket",
+     "color": "#1E88E5",
+     "flag": "🇪🇹",
+     "url": "https://www.ethiopianairlines.com",
+     "name": {
+      "bn": "ইথিওপিয়ান এয়ারলাইনস",
+      "en": "Ethiopian Airlines",
+      "ar": "الخطوط الإثيوبية",
+      "ur": "Ethiopian Airlines",
+      "hi": "Ethiopian Airlines"
+     }
+    },
+    {
+     "id": "air_egyptair",
+     "icon": "airplane_ticket",
+     "color": "#1E88E5",
+     "flag": "🇪🇬",
+     "url": "https://www.egyptair.com",
+     "name": {
+      "bn": "ইজিপ্ট এয়ার",
+      "en": "EgyptAir",
+      "ar": "مصر للطيران",
+      "ur": "EgyptAir",
+      "hi": "EgyptAir"
+     }
+    }
+   ]
+  },
+  {
+   "id": "embassy",
+   "icon": "flag",
+   "color": "#1565C0",
+   "name": {
+    "bn": "দূতাবাস হেল্পলাইন",
+    "en": "Embassy helplines",
+    "ar": "خطوط السفارات",
+    "ur": "سفارتخانہ ہیلپ لائن",
+    "hi": "दूतावास हेल्पलाइन"
+   },
+   "items": []
+  },
+  {
+   "id": "passport",
+   "icon": "menu_book",
+   "color": "#43A047",
+   "name": {
+    "bn": "পাসপোর্ট ও অ্যাপয়েন্টমেন্ট",
+    "en": "Passport & appointments",
+    "ar": "الجوازات والمواعيد",
+    "ur": "پاسپورٹ اور اپائنٹمنٹ",
+    "hi": "पासपोर्ट और अपॉइंटमेंट"
+   },
+   "items": [
+    {
+     "id": "civil_appt",
+     "icon": "event_available",
+     "color": "#43A047",
+     "url": "https://www.absher.sa/wps/myportal/individuals/Home/myservices/appointments/civilaffairs/ppamss-bookanappointment/!ut/p/z1/jZNRb4IwFIV_iw8-zt62QJu9VcSqyNAamPZl0YWhmYJBp_HfDzEuYSLat_ae79z03BZpNEU6mR9W8Xy_SpP5Ot_PtPVh0EnX7g-l67GRA_1OaL4pxQm4gN4LgcRY9IiEoZSKwNgWmDLRxhybSOdluLPElf9_3FakTQGkTy583zB62CCuJBMTxMDzA5d1sI-NSr7U4AEfolkbzXimQR2vZvfV-pkw_njfJ04eBhNMeJhAaBW8RYY27vFzOaRgublWeWMKkt30t1ya86rj-HkdiFm-zK19Pe9az_GmPbL73KNYjgIGpMuMgW25HDh-bhjVvAyBFXyN_YWvCegpvmZADx-jrpCUn-MjD10OiYe4AyIcddnAkbnHjaBiyLWC8xRrcihiHiAdr9PF5f-KZEF5jHQWfUVZlLV-svx4ud9vd69NaMLxeGzFaRqvo9ZnumlCFbJMd3s0LSvRJErQdhMEQXJaXdbLt3IUP9H1IRaNxi9wUexm/dz/d5/L2dBISEvZ0FBIS9nQSEh/",
+     "name": {
+      "bn": "সিভিল অ্যাফেয়ার্স অ্যাপয়েন্টমেন্ট",
+      "en": "Civil affairs appointment",
+      "ar": "مواعيد الأحوال المدنية",
+      "ur": "سول افیئرز اپائنٹمنٹ",
+      "hi": "सिविल अफ़ेयर्स अपॉइंटमेंट"
+     }
+    },
+    {
+     "id": "passport_appt",
+     "icon": "calendar_month",
+     "color": "#1E88E5",
+     "url": "https://www.absher.sa/wps/myportal/individuals/Home/myservices/appointments/passports/ppamss-reg-bookanappointment/!ut/p/z1/jZTBUsIwEIafxQNXsknaJOMttCUtbS0UqZiLA06pOEgdRHl9Azg6FQjNLdn_2_yb3QnSaIr0eva1rGbbZb2ercz-UbMnh477XpSomHFGQYqwEPceBRhh9HAQKIxlSBQkSuUERp7ElMseFthF2oThwpLww_8_7uWkZ_KrjBz5yHFC7JBYkbELcpBmk5j7OMPOWb5xQTv-skC3qf-XzzISmPq55DLFBAp24BlJPByKfbigwGKjzdMRBcVP7mcxNXzuB5mJA3Gb_k_T2_mYteNdb-hFIqVYDSccSJ87A4_FAgRu1p_yYQCRX7h3eS4IxGDlVQH8wFvSH3nLA7XiLQZb9d_S4Kvzq89ImhN8LYdumhQF9kEWwz4fBMrkOBGcGRKrYD8Flnc8tumfBw-E8XDfC7O7Ah_mwGZSJQ4aIF2t6vnx05DrORUV0ptyUW7KTfdzY45fttv3j9sOdGC323Wruq5WZfe5fuvAOeSl_tiiaVOJxuUavb9N_tYUltEyenVXX8lC3tx8A0Qfk4U!/dz/d5/L2dBISEvZ0FBIS9nQSEh/",
+     "name": {
+      "bn": "জাওয়াজাত অ্যাপয়েন্টমেন্ট",
+      "en": "Jawazat appointment",
+      "ar": "مواعيد الجوازات",
+      "ur": "جوازات اپائنٹمنٹ",
+      "hi": "जवाज़ात अपॉइंटमेंट"
+     }
+    }
+   ]
+  },
+  {
+   "id": "bills",
+   "icon": "receipt_long",
+   "color": "#3F51B5",
+   "name": {
+    "bn": "বিদ্যুৎ ও পানির বিল",
+    "en": "Utility bills",
+    "ar": "الفواتير",
+    "ur": "بجلی اور پانی کے بل",
+    "hi": "बिजली और पानी बिल"
+   },
+   "items": [
+    {
+     "id": "electricity",
+     "icon": "bolt",
+     "color": "#3949AB",
+     "url": "https://www.se.com.sa/en/GuestViewBill",
+     "name": {
+      "bn": "বিদ্যুৎ বিল চেক",
+      "en": "Electricity bill check",
+      "ar": "فاتورة الكهرباء",
+      "ur": "بجلی بل",
+      "hi": "बिजली बिल"
+     }
+    },
+    {
+     "id": "water",
+     "icon": "water_drop",
+     "color": "#1E88E5",
+     "url": "https://ebranch.nwc.com.sa/login",
+     "name": {
+      "bn": "পানির বিল চেক",
+      "en": "Water bill check",
+      "ar": "فاتورة المياه",
+      "ur": "پانی بل",
+      "hi": "पानी बिल"
+     }
+    }
+   ]
+  },
+  {
+   "id": "banks",
+   "icon": "account_balance",
+   "color": "#00695C",
+   "name": {
+    "bn": "ব্যাংক অ্যাকাউন্ট",
+    "en": "Bank account",
+    "ar": "Open a bank account",
+    "ur": "Open a bank account",
+    "hi": "Open a bank account"
+   },
+   "items": [
+    {
+     "id": "bank_guide",
+     "icon": "menu_book",
+     "color": "#6A1B9A",
+     "url": "app://bank_guide",
+     "name": {
+      "bn": "কী কী লাগে ও কোন ব্যাংক কীভাবে",
+      "en": "What you need & how",
+      "ar": "What you need & how",
+      "ur": "What you need & how",
+      "hi": "What you need & how"
+     }
+    },
+    {
+     "id": "bank_albilad",
+     "icon": "account_balance",
+     "color": "#B8860B",
+     "url": "https://www.bankalbilad.com/en/personal/accounts/Pages/digital.aspx",
+     "name": {
+      "bn": "ব্যাংক আলবিলাদ (ব্রাউজারে খোলা যায়)",
+      "en": "Bank Albilad (open in browser)",
+      "ar": "Bank Albilad (open in browser)",
+      "ur": "Bank Albilad (open in browser)",
+      "hi": "Bank Albilad (open in browser)"
+     }
+    },
+    {
+     "id": "bank_alinma",
+     "icon": "account_balance",
+     "color": "#6D4C41",
+     "url": "https://www.alinma.com/en/retail/accounts/online-account-opening",
+     "name": {
+      "bn": "আলইনমা ব্যাংক (ব্রাউজারে খোলা যায়)",
+      "en": "Alinma Bank (open in browser)",
+      "ar": "Alinma Bank (open in browser)",
+      "ur": "Alinma Bank (open in browser)",
+      "hi": "Alinma Bank (open in browser)"
+     }
+    },
+    {
+     "id": "bank_riyad",
+     "icon": "account_balance",
+     "color": "#1565C0",
+     "url": "https://www.riyadbank.com/personal-banking/current-account",
+     "name": {
+      "bn": "রিয়াদ ব্যাংক (ব্রাউজারে খোলা যায়)",
+      "en": "Riyad Bank (open in browser)",
+      "ar": "Riyad Bank (site: \"Open an Account\")",
+      "ur": "Riyad Bank (site: \"Open an Account\")",
+      "hi": "Riyad Bank (site: \"Open an Account\")"
+     }
+    },
+    {
+     "id": "bank_anb",
+     "icon": "account_balance",
+     "color": "#2E7D32",
+     "url": "https://anb.com.sa/web/anb/all-accounts",
+     "name": {
+      "bn": "anb আরব ন্যাশনাল ব্যাংক (ব্রাউজারে খোলা যায়)",
+      "en": "anb Arab National Bank (open in browser)",
+      "ar": "anb Arab National Bank (open in browser)",
+      "ur": "anb Arab National Bank (open in browser)",
+      "hi": "anb Arab National Bank (open in browser)"
+     }
+    }
+   ]
+  },
+  {
+   "id": "rates",
+   "icon": "currency_exchange",
+   "color": "#EF6C00",
+   "name": {
+    "bn": "রিয়াল ও সোনার রেট",
+    "en": "Riyal & gold rates",
+    "ar": "أسعار الريال والذهب",
+    "ur": "ریال اور سونے کا ریٹ",
+    "hi": "रियाल और सोने का रेट"
+   },
+   "items": [
+    {
+     "id": "worldremit",
+     "icon": "currency_exchange",
+     "color": "#7B1FA2",
+     "url": "https://www.worldremit.com/en/currency-converter/1-sar_sa-bdt_bd",
+     "name": {
+      "bn": "ওয়ার্ল্ডরেমিট রেট (রিয়াল → টাকা)",
+      "en": "WorldRemit rate (SAR → BDT)",
+      "ar": "سعر ورلد ريميت",
+      "ur": "ورلڈ ریمٹ ریٹ",
+      "hi": "वर्ल्डरेमिट रेट"
+     }
+    },
+    {
+     "id": "xe",
+     "icon": "query_stats",
+     "color": "#3949AB",
+     "url": "https://www.xe.com/currencyconverter/convert/?Amount=1&From=SAR&To=BDT",
+     "name": {
+      "bn": "XE কারেন্সি রেট",
+      "en": "XE currency rate",
+      "ar": "سعر XE",
+      "ur": "XE ریٹ",
+      "hi": "XE रेट"
+     }
+    },
+    {
+     "id": "wise",
+     "icon": "send_to_mobile",
+     "color": "#546E7A",
+     "url": "https://wise.com/gb/currency-converter/sar-to-bdt-rate?amount=1",
+     "name": {
+      "bn": "ওয়াইজ ট্রান্সফার রেট",
+      "en": "Wise transfer rate",
+      "ar": "سعر وايز",
+      "ur": "وائز ریٹ",
+      "hi": "वाइज़ रेट"
+     }
+    },
+    {
+     "id": "gold",
+     "icon": "monetization_on",
+     "color": "#FB8C00",
+     "url": "https://www.livepriceofgold.com/saudi-arabia-gold-price.html",
+     "name": {
+      "bn": "সৌদি সোনার দাম",
+      "en": "Saudi gold price",
+      "ar": "سعر الذهب",
+      "ur": "سونے کی قیمت",
+      "hi": "सोने की कीमत"
+     }
+    },
+    {
+     "id": "ctr_rate",
+     "icon": "currency_exchange",
+     "color": "#00897B",
+     "url": "https://ctr-ksa.com/",
+     "name": {
+      "bn": "কারেন্সি ট্রান্সফার রেট",
+      "en": "Currency transfer rate",
+      "ar": "Currency transfer rate",
+      "ur": "Currency transfer rate",
+      "hi": "Currency transfer rate"
+     }
+    }
+   ]
+  },
+  {
+   "id": "work",
+   "icon": "work",
+   "color": "#5E35B1",
+   "name": {
+    "bn": "কাজ ও বেতন",
+    "en": "Work & salary",
+    "ar": "العمل والرواتب",
+    "ur": "کام اور تنخواہ",
+    "hi": "काम और वेतन"
+   },
+   "items": [
+    {
+     "id": "qiwa",
+     "icon": "swap_horiz",
+     "color": "#3949AB",
+     "url": "https://sso.qiwa.sa/sign-in",
+     "name": {
+      "bn": "কিওয়া (চুক্তি ও ট্রান্সফার)",
+      "en": "Qiwa (contract & transfer)",
+      "ar": "قوى",
+      "ur": "قوى",
+      "hi": "क़िवा"
+     }
+    },
+    {
+     "id": "qiwa_register",
+     "icon": "person_add",
+     "color": "#3949AB",
+     "url": "https://sso.qiwa.sa/registration",
+     "name": {
+      "bn": "কিওয়া অ্যাকাউন্ট রেজিস্ট্রেশন",
+      "en": "Qiwa account registration",
+      "ar": "التسجيل في قوى",
+      "ur": "قوى اکاؤنٹ رجسٹریشن",
+      "hi": "क़िवा अकाउंट पंजीकरण"
+     }
+    },
+    {
+     "id": "qiwa_reset",
+     "icon": "manage_accounts",
+     "color": "#00897B",
+     "url": "https://sso.qiwa.sa/reset-password",
+     "name": {
+      "bn": "কিওয়া পাসওয়ার্ড ভুলে গেলে",
+      "en": "Forgot Qiwa password",
+      "ar": "Forgot Qiwa password",
+      "ur": "Forgot Qiwa password",
+      "hi": "Forgot Qiwa password"
+     }
+    },
+    {
+     "id": "mudad",
+     "icon": "payments",
+     "color": "#43A047",
+     "url": "https://sso.qiwa.sa/sign-in",
+     "name": {
+      "bn": "বেতন সার্টিফিকেট ও চুক্তি (কিওয়া)",
+      "en": "Salary certificate & contract (Qiwa)",
+      "ar": "Salary certificate & contract (Qiwa)",
+      "ur": "Salary certificate & contract (Qiwa)",
+      "hi": "Salary certificate & contract (Qiwa)"
+     }
+    },
+    {
+     "id": "gosi_register",
+     "icon": "person_add",
+     "color": "#00897B",
+     "url": "https://taminaty.gosi.gov.sa/#/do-login",
+     "name": {
+      "bn": "GOSI (তামিনাতি): বেতন ও নিবন্ধন দেখুন",
+      "en": "GOSI (Taminaty): wage & registration",
+      "ar": "GOSI (Taminaty): wage & registration",
+      "ur": "GOSI (Taminaty): wage & registration",
+      "hi": "GOSI (Taminaty): wage & registration"
+     }
+    },
+    {
+     "id": "labour",
+     "icon": "report",
+     "color": "#E53935",
+     "url": "https://sso.hrsd.gov.sa/login?ReturnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3DUCRM2%26redirect_uri%3Dhttps%253A%252F%252Fselfservice.hrsd.gov.sa%252Fnode%252F%26response_type%3Dcode%26scope%3Dopenid",
+     "name": {
+      "bn": "শ্রম অভিযোগ",
+      "en": "Labour complaint",
+      "ar": "شكوى عمالية",
+      "ur": "لیبر شکایت",
+      "hi": "श्रम शिकायत"
+     }
+    },
+    {
+     "id": "musaned",
+     "icon": "home",
+     "color": "#F4511E",
+     "url": "https://musaned.com.sa",
+     "name": {
+      "bn": "গৃহকর্মী ভিসা (মুসানেদ)",
+      "en": "Domestic worker (Musaned)",
+      "ar": "مساند",
+      "ur": "مساند",
+      "hi": "मुसानेद"
+     }
+    }
+   ]
+  },
+  {
+   "id": "jobs",
+   "icon": "work",
+   "color": "#0A66C2",
+   "name": {
+    "bn": "চাকরি খুঁজুন",
+    "en": "Find jobs",
+    "ar": "البحث عن وظيفة",
+    "ur": "نوکری تلاش کریں",
+    "hi": "नौकरी खोजें"
+   },
+   "items": [
+    {
+     "id": "job_bayt",
+     "icon": "work",
+     "color": "#1E88E5",
+     "url": "https://www.bayt.com/en/saudi-arabia/jobs/",
+     "name": {
+      "bn": "বায়েত (সবচেয়ে বড়)",
+      "en": "Bayt.com (largest)",
+      "ar": "Bayt.com (largest)",
+      "ur": "Bayt.com (largest)",
+      "hi": "Bayt.com (largest)"
+     }
+    },
+    {
+     "id": "job_naukrigulf",
+     "icon": "manage_search",
+     "color": "#0A66C2",
+     "url": "https://www.naukrigulf.com/jobs-in-saudi-arabia",
+     "name": {
+      "bn": "নৌকরি গালফ",
+      "en": "Naukrigulf",
+      "ar": "Naukrigulf",
+      "ur": "Naukrigulf",
+      "hi": "Naukrigulf"
+     }
+    },
+    {
+     "id": "job_indeed",
+     "icon": "person_search",
+     "color": "#2557A7",
+     "url": "https://sa.indeed.com",
+     "name": {
+      "bn": "ইনডিড সৌদি",
+      "en": "Indeed Saudi Arabia",
+      "ar": "Indeed Saudi Arabia",
+      "ur": "Indeed Saudi Arabia",
+      "hi": "Indeed Saudi Arabia"
+     }
+    },
+    {
+     "id": "job_linkedin",
+     "icon": "groups",
+     "color": "#0A66C2",
+     "url": "https://www.linkedin.com/jobs/",
+     "name": {
+      "bn": "লিংকডইন জবস",
+      "en": "LinkedIn Jobs",
+      "ar": "LinkedIn Jobs",
+      "ur": "LinkedIn Jobs",
+      "hi": "LinkedIn Jobs"
+     }
+    },
+    {
+     "id": "job_gulftalent",
+     "icon": "verified",
+     "color": "#E65100",
+     "url": "https://www.gulftalent.com",
+     "name": {
+      "bn": "গালফ ট্যালেন্ট",
+      "en": "GulfTalent",
+      "ar": "GulfTalent",
+      "ur": "GulfTalent",
+      "hi": "GulfTalent"
+     }
+    },
+    {
+     "id": "job_expatriates",
+     "icon": "public",
+     "color": "#43A047",
+     "url": "https://www.expatriates.com",
+     "name": {
+      "bn": "এক্সপ্যাট্রিয়েটস.কম",
+      "en": "Expatriates.com",
+      "ar": "Expatriates.com",
+      "ur": "Expatriates.com",
+      "hi": "Expatriates.com"
+     }
+    },
+    {
+     "id": "job_tanqeeb",
+     "icon": "manage_search",
+     "color": "#00897B",
+     "url": "https://saudi.tanqeeb.com",
+     "name": {
+      "bn": "তানকিব",
+      "en": "Tanqeeb",
+      "ar": "Tanqeeb",
+      "ur": "Tanqeeb",
+      "hi": "Tanqeeb"
+     }
+    }
+   ]
+  },
+  {
+   "id": "housing",
+   "icon": "house",
+   "color": "#6D4C41",
+   "name": {
+    "bn": "বাসা ও ঠিকানা",
+    "en": "Housing & address",
+    "ar": "السكن والعنوان",
+    "ur": "رہائش اور پتہ",
+    "hi": "घर और पता"
+   },
+   "items": [
+    {
+     "id": "ejar",
+     "icon": "house",
+     "color": "#6D4C41",
+     "url": "https://www.ejar.sa",
+     "name": {
+      "bn": "ভাড়ার চুক্তি (ইজার)",
+      "en": "Rental contract (Ejar)",
+      "ar": "إيجار",
+      "ur": "ایجار",
+      "hi": "ईजार"
+     }
+    },
+    {
+     "id": "national_address_register",
+     "icon": "person_add",
+     "color": "#43A047",
+     "url": "https://accounts.splonline.com.sa/en/Registration",
+     "name": {
+      "bn": "ন্যাশনাল অ্যাড্রেস রেজিস্ট্রেশন",
+      "en": "National address registration",
+      "ar": "تسجيل العنوان الوطني",
+      "ur": "قومی پتہ رجسٹریشن",
+      "hi": "राष्ट्रीय पता पंजीकरण"
+     }
+    }
+   ]
+  },
+  {
+   "id": "legal",
+   "icon": "balance",
+   "color": "#455A64",
+   "name": {
+    "bn": "আদালত ও মামলা",
+    "en": "Courts & cases",
+    "ar": "المحاكم والقضايا",
+    "ur": "عدالت اور مقدمات",
+    "hi": "अदालत और मामले"
+   },
+   "items": [
+    {
+     "id": "najiz",
+     "icon": "balance",
+     "color": "#455A64",
+     "url": "https://new.najiz.sa/applications/landing",
+     "name": {
+      "bn": "মামলা ও ট্রাভেল ব্যান (নাজিজ)",
+      "en": "Cases & travel ban (Najiz)",
+      "ar": "ناجز",
+      "ur": "ناجز",
+      "hi": "नाजिज़"
+     }
+    },
+    {
+     "id": "hrsd_settlement",
+     "icon": "balance",
+     "color": "#5E35B1",
+     "url": "https://www.hrsd.gov.sa/en/ministry-services/services/269970",
+     "name": {
+      "bn": "শ্রম বিরোধে আপস-মীমাংসা (HRSD)",
+      "en": "Friendly settlement of labour disputes (HRSD)",
+      "ar": "التسوية الودية للخلافات العمالية",
+      "ur": "لیبر تنازع کا دوستانہ تصفیہ",
+      "hi": "श्रम विवाद का सुलह"
+     }
+    }
+   ]
+  },
+  {
+   "id": "bd",
+   "icon": "flag",
+   "color": "#006A4E",
+   "name": {
+    "bn": "বাংলাদেশি প্রবাসী সেবা",
+    "en": "Bangladeshi expat services",
+    "ar": "خدمات البنغلاديشيين",
+    "ur": "بنگلہ دیشی خدمات",
+    "hi": "बांग्लादेशी सेवाएँ"
+   },
+   "items": [
+    {
+     "id": "bd_embassy_site",
+     "icon": "account_balance",
+     "color": "#006A4E",
+     "url": "https://riyadh.mofa.gov.bd",
+     "name": {
+      "bn": "দূতাবাস রিয়াদ (ওয়েবসাইট)",
+      "en": "Embassy Riyadh (website)",
+      "ar": "سفارة بنغلاديش",
+      "ur": "سفارتخانہ ریاض",
+      "hi": "दूतावास रियाद"
+     }
+    },
+    {
+     "id": "bd_exit_form",
+     "icon": "description",
+     "color": "#006A4E",
+     "url": "https://www.beriyadh.org/sep/download/form/exit-form",
+     "name": {
+      "bn": "এক্সিট ফর্ম ডাউনলোড (দূতাবাস রিয়াদ)",
+      "en": "Exit form download (Embassy Riyadh)",
+      "ar": "تحميل نموذج الخروج (سفارة بنغلاديش)",
+      "ur": "ایگزٹ فارم ڈاؤن لوڈ (سفارتخانہ ریاض)",
+      "hi": "एग्ज़िट फॉर्म डाउनलोड (दूतावास रियाद)"
+     }
+    },
+    {
+     "id": "bd_epassport",
+     "icon": "menu_book",
+     "color": "#1E88E5",
+     "url": "https://www.epassport.gov.bd/landing",
+     "name": {
+      "bn": "ই-পাসপোর্ট অনলাইন আবেদন",
+      "en": "Apply e-passport online",
+      "ar": "طلب الجواز الإلكتروني",
+      "ur": "ای پاسپورٹ آن لائن درخواست",
+      "hi": "ई-पासपोर्ट ऑनलाइन आवेदन"
+     }
+    },
+    {
+     "id": "bd_epassport_status",
+     "icon": "query_stats",
+     "color": "#1565C0",
+     "url": "https://www.epassport.gov.bd/authorization/application-status",
+     "name": {
+      "bn": "ই-পাসপোর্ট কতদূর (স্ট্যাটাস চেক)",
+      "en": "e-Passport status check",
+      "ar": "e-Passport status check",
+      "ur": "e-Passport status check",
+      "hi": "e-Passport status check"
+     }
+    },
+    {
+     "id": "bd_passport_appt",
+     "icon": "event_available",
+     "color": "#43A047",
+     "url": "https://passportriyadh.com/appointment/",
+     "name": {
+      "bn": "পাসপোর্ট অ্যাপয়েন্টমেন্ট (রিয়াদ দূতাবাস)",
+      "en": "Passport appointment (Riyadh embassy)",
+      "ar": "موعد الجواز (سفارة الرياض)",
+      "ur": "پاسپورٹ اپائنٹمنٹ (ریاض)",
+      "hi": "पासपोर्ट अपॉइंटमेंट (रियाद)"
+     }
+    },
+    {
+     "id": "bd_nid",
+     "icon": "fingerprint",
+     "color": "#8E24AA",
+     "url": "https://services.nidw.gov.bd",
+     "name": {
+      "bn": "জাতীয় পরিচয়পত্র (NID)",
+      "en": "National ID (NID)",
+      "ar": "الهوية الوطنية",
+      "ur": "قومی شناختی کارڈ",
+      "hi": "राष्ट्रीय पहचान पत्र"
+     }
+    },
+    {
+     "id": "bd_amiprobashi",
+     "icon": "phone_android",
+     "color": "#E53935",
+     "url": "https://employee.oep.gov.bd/employee/login-with-otp",
+     "name": {
+      "bn": "বিএমইটি কর্মী পোর্টাল",
+      "en": "BMET Worker Portal",
+      "ar": "BMET Worker Portal",
+      "ur": "BMET Worker Portal",
+      "hi": "BMET Worker Portal"
+     }
+    },
+    {
+     "id": "bd_wewb",
+     "icon": "account_balance",
+     "color": "#2E7D32",
+     "url": "https://www.wewb.gov.bd",
+     "name": {
+      "bn": "প্রবাসী কল্যাণ বোর্ড (WEWB)",
+      "en": "Wage Earners' Welfare Board (WEWB)",
+      "ar": "مجلس رعاية العمال المغتربين",
+      "ur": "ویج ارنرز ویلفیئر بورڈ",
+      "hi": "वेज अर्नर्स वेलफेयर बोर्ड"
+     }
+    },
+    {
+     "id": "bd_customs",
+     "icon": "flight",
+     "color": "#006A4E",
+     "url": "app://customs",
+     "name": {
+      "bn": "বিমানবন্দরে কাস্টমসের নিয়ম (সোনা, মোবাইল)",
+      "en": "Airport customs rules (gold, phones)",
+      "ar": "Airport customs rules (gold, phones)",
+      "ur": "Airport customs rules (gold, phones)",
+      "hi": "Airport customs rules (gold, phones)"
+     }
+    }
+   ]
+  },
+  {
+   "id": "tools",
+   "icon": "calculate",
+   "color": "#00897B",
+   "name": {
+    "bn": "টুলস",
+    "en": "Tools",
+    "ar": "الأدوات",
+    "ur": "ٹولز",
+    "hi": "टूल्स"
+   },
+   "items": [
+    {
+     "id": "zakat",
+     "icon": "calculate",
+     "color": "#7CB342",
+     "url": "https://www.islamicfinder.org/zakat-calculator/",
+     "name": {
+      "bn": "জাকাত ক্যালকুলেটর",
+      "en": "Zakat calculator",
+      "ar": "حاسبة الزكاة",
+      "ur": "زکوٰۃ کیلکولیٹر",
+      "hi": "ज़कात कैलकुलेटर"
+     }
+    },
+    {
+     "id": "vat_check",
+     "icon": "receipt_long",
+     "color": "#FB8C00",
+     "url": "https://zatca.gov.sa/en/eServices/Pages/TaxpayerLookup.aspx",
+     "name": {
+      "bn": "VAT স্ট্যাটাস চেক",
+      "en": "Check VAT status",
+      "ar": "التحقق من الرقم الضريبي",
+      "ur": "VAT اسٹیٹس",
+      "hi": "VAT स्थिति जाँच"
+     }
+    }
+   ]
+  }
+ ],
+ "emergency": [
+  {
+   "icon": "sos",
+   "num": "911",
+   "name": {
+    "bn": "জরুরি (একক নম্বর)",
+    "en": "Unified emergency",
+    "ar": "الطوارئ الموحد",
+    "ur": "متحدہ ہنگامی نمبر",
+    "hi": "एकीकृत आपात नंबर"
+   }
+  },
+  {
+   "icon": "local_police",
+   "num": "999",
+   "name": {
+    "bn": "পুলিশ",
+    "en": "Police",
+    "ar": "الشرطة",
+    "ur": "پولیس",
+    "hi": "पुलिस"
+   }
+  },
+  {
+   "icon": "medical_services",
+   "num": "997",
+   "name": {
+    "bn": "অ্যাম্বুলেন্স",
+    "en": "Ambulance",
+    "ar": "الإسعاف",
+    "ur": "ایمبولینس",
+    "hi": "एम्बुलेंस"
+   }
+  },
+  {
+   "icon": "local_fire_department",
+   "num": "998",
+   "name": {
+    "bn": "অগ্নি নির্বাপণ",
+    "en": "Civil defense (fire)",
+    "ar": "الدفاع المدني",
+    "ur": "سول ڈیفنس",
+    "hi": "सिविल डिफ़ेंस"
+   }
+  },
+  {
+   "icon": "car_crash",
+   "num": "993",
+   "name": {
+    "bn": "ট্রাফিক দুর্ঘটনা",
+    "en": "Traffic accidents",
+    "ar": "الحوادث المرورية",
+    "ur": "ٹریفک حادثات",
+    "hi": "सड़क दुर्घटना"
+   }
+  },
+  {
+   "icon": "badge",
+   "num": "992",
+   "name": {
+    "bn": "জাওয়াজাত",
+    "en": "Jawazat",
+    "ar": "الجوازات",
+    "ur": "جوازات",
+    "hi": "जवाज़ात"
+   }
+  },
+  {
+   "icon": "work",
+   "num": "19911",
+   "name": {
+    "bn": "শ্রম অভিযোগ",
+    "en": "Labour complaints",
+    "ar": "بلاغات العمل",
+    "ur": "لیبر شکایات",
+    "hi": "श्रम शिकायत"
+   }
+  }
+ ],
+ "embassies": [
+  {
+   "flag": "🇧🇩",
+   "name": {
+    "bn": "বাংলাদেশ",
+    "en": "Bangladesh",
+    "ar": "بنغلاديش",
+    "ur": "بنگلہ دیش",
+    "hi": "बांग्लादेश"
+   },
+   "offices": [
+    {
+     "type": "riyadh",
+     "phone": "0114195300",
+     "email": "mission.riyadh@mofa.gov.bd"
+    },
+    {
+     "type": "jeddah",
+     "phone": "0126878465",
+     "email": "mission.jeddah@mofa.gov.bd"
+    }
+   ],
+   "color": "#006A4E"
+  },
+  {
+   "flag": "🇮🇳",
+   "name": {
+    "bn": "ভারত",
+    "en": "India",
+    "ar": "الهند",
+    "ur": "بھارت",
+    "hi": "भारत"
+   },
+   "offices": [
+    {
+     "type": "riyadh",
+     "phone": "0114884144",
+     "email": "info.riyadh@mea.gov.in"
+    },
+    {
+     "type": "jeddah",
+     "phone": "0126603779",
+     "email": "cons.jeddah@mea.gov.in"
+    }
+   ],
+   "color": "#EF6C00"
+  },
+  {
+   "flag": "🇵🇰",
+   "name": {
+    "bn": "পাকিস্তান",
+    "en": "Pakistan",
+    "ar": "باكستان",
+    "ur": "پاکستان",
+    "hi": "पाकिस्तान"
+   },
+   "offices": [
+    {
+     "type": "riyadh",
+     "phone": "0114884111",
+     "email": "parepriyadh@mofa.gov.pk"
+    },
+    {
+     "type": "jeddah",
+     "phone": "0126691046",
+     "email": "parepjeddah@mofa.gov.pk"
+    }
+   ],
+   "color": "#2E7D32"
+  },
+  {
+   "flag": "🇳🇵",
+   "name": {
+    "bn": "নেপাল",
+    "en": "Nepal",
+    "ar": "نيبال",
+    "ur": "نیپال",
+    "hi": "नेपाल"
+   },
+   "offices": [
+    {
+     "type": "riyadh",
+     "phone": "0114611108",
+     "email": "eonriyadh@mofa.gov.np"
+    },
+    {
+     "type": "jeddah",
+     "phone": "0126226665",
+     "email": "jeddah@mofa.gov.np"
+    }
+   ],
+   "color": "#3949AB"
+  },
+  {
+   "flag": "🇵🇭",
+   "name": {
+    "bn": "ফিলিপাইন",
+    "en": "Philippines",
+    "ar": "الفلبين",
+    "ur": "فلپائن",
+    "hi": "फ़िलीपींस"
+   },
+   "offices": [
+    {
+     "type": "riyadh",
+     "phone": "0114823816",
+     "email": "riyadh.pe@dfa.gov.ph"
+    },
+    {
+     "type": "jeddah",
+     "phone": "0126670925",
+     "email": "jeddah.pcg@dfa.gov.ph"
+    }
+   ],
+   "color": "#1E88E5"
+  },
+  {
+   "flag": "🇮🇩",
+   "name": {
+    "bn": "ইন্দোনেশিয়া",
+    "en": "Indonesia",
+    "ar": "إندونيسيا",
+    "ur": "انڈونیشیا",
+    "hi": "इंडोनेशिया"
+   },
+   "offices": [
+    {
+     "type": "riyadh",
+     "phone": "0114882800",
+     "email": "riyadh.kbri@kemlu.go.id"
+    },
+    {
+     "type": "jeddah",
+     "phone": "0126711271",
+     "email": "jeddah.kjri@kemlu.go.id"
+    }
+   ],
+   "color": "#D32F2F"
+  },
+  {
+   "flag": "🇱🇰",
+   "name": {
+    "bn": "শ্রীলঙ্কা",
+    "en": "Sri Lanka",
+    "ar": "سريلانكا",
+    "ur": "سری لنکا",
+    "hi": "श्रीलंका"
+   },
+   "offices": [
+    {
+     "type": "riyadh",
+     "phone": "0114609187",
+     "email": "lankaemb@shabakah.net.sa"
+    },
+    {
+     "type": "jeddah",
+     "phone": "0126666751",
+     "email": "slcgjeddah@gmail.com"
+    }
+   ],
+   "color": "#F57C00"
+  },
+  {
+   "flag": "🇪🇬",
+   "name": {
+    "bn": "মিশর",
+    "en": "Egypt",
+    "ar": "مصر",
+    "ur": "مصر",
+    "hi": "मिस्र"
+   },
+   "offices": [
+    {
+     "type": "riyadh",
+     "phone": "0114807359",
+     "email": "egypt.embassy.riyadh@gmail.com"
+    },
+    {
+     "type": "jeddah",
+     "phone": "0126605205",
+     "email": "consulate.jeddah@mfa.gov.eg"
+    }
+   ],
+   "color": "#C62828"
+  }
+ ],
+ "news": [],
+ "deals": [],
+ "newsFeeds": [
+  {
+   "name": "Saudi Gazette",
+   "url": "https://saudigazette.com.sa/rssFeed/74",
+   "type": "rss"
+  },
+  {
+   "name": "Saudi Gazette",
+   "url": "https://saudigazette.com.sa/sitemaps/news_sitemap.xml",
+   "type": "sitemap"
+  }
+ ],
+ "iqamaRates": {
+  "iqamaYear": 650,
+  "levyStd": 800,
+  "levyLow": 700,
+  "dependent": 400,
+  "updated": "2026-11"
+ }
+}
